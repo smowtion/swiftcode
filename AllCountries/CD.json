@@ -1,0 +1,223 @@
+{
+    "country": "Congo, Democratic Republic",
+    "country_code": "CD",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ACCESS BANK CONGO DR",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "ABNGCDKI"
+        },
+        {
+            "id": 2,
+            "bank": "ADVANS BANQUE CONGO",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "ADVBCDKX"
+        },
+        {
+            "id": 3,
+            "bank": "AFRILAND FIRST BANK CONGO DEMOCRATIQUE",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "AFCDCDKI"
+        },
+        {
+            "id": 4,
+            "bank": "BANK OF AFRICA-RDC",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "AFRICDKS"
+        },
+        {
+            "id": 5,
+            "bank": "BANQUE CENTRALE DU CONGO",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "BCCGCDKS"
+        },
+        {
+            "id": 6,
+            "bank": "BANQUE COMMERCIALE DU CONGO",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "BCDCCDKI"
+        },
+        {
+            "id": 7,
+            "bank": "BANQUE COMMERCIALE DU CONGO",
+            "city": "LUBUMBASHI",
+            "branch": null,
+            "swift_code": "BCDCCDKI03L"
+        },
+        {
+            "id": 8,
+            "bank": "BANQUE CONTINENTALE AFRICAINE (ZAIRE) SARL",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "CLUXCDK1"
+        },
+        {
+            "id": 9,
+            "bank": "BANQUE DU CREDIT AGRICOLE 'B.C.A.'",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "ACRBCDK1"
+        },
+        {
+            "id": 10,
+            "bank": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU CONGO (BIAC)",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "BIACCDKI"
+        },
+        {
+            "id": 11,
+            "bank": "BANQUE ZAIROISE DU COMMERCE EXTERIEUR",
+            "city": "LUBUMBASHI",
+            "branch": null,
+            "swift_code": "ZAEXCD31"
+        },
+        {
+            "id": 12,
+            "bank": "BGFIBANK RDC",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "BGFICDKI"
+        },
+        {
+            "id": 13,
+            "bank": "BYBLOS BANK RDC",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "BYBACDKI"
+        },
+        {
+            "id": 14,
+            "bank": "CAISSE CENTRALE DE COOPERATION ECONOMIQUE",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "CCNCCDK1"
+        },
+        {
+            "id": 15,
+            "bank": "CITIBANK CONGO",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "CITICDKX"
+        },
+        {
+            "id": 16,
+            "bank": "DMEXCHANGE SPRL",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "DMEXCDK1"
+        },
+        {
+            "id": 17,
+            "bank": "DMEXCHANGE SPRL",
+            "city": "LUBUMBASHI",
+            "branch": null,
+            "swift_code": "DMEXCDK1AIP"
+        },
+        {
+            "id": 18,
+            "bank": "ECOBANK REPUBLIQUE DEMOCRATIQUE DU CONGO SARL",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "ECOCCDKI"
+        },
+        {
+            "id": 19,
+            "bank": "FBNBANK DRC SA",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "BICDCDKI"
+        },
+        {
+            "id": 20,
+            "bank": "FIRST INTERNATIONAL BANK DRC",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "FIBLCDKI"
+        },
+        {
+            "id": 21,
+            "bank": "FRANSABANK (CONGO) SARL",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "FRZSCDK1"
+        },
+        {
+            "id": 22,
+            "bank": "NOUVELLE BANQUE DE KINSHASA",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "BKINCDK1"
+        },
+        {
+            "id": 23,
+            "bank": "PROCREDIT BANK CONGO SA",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "PRCBCDKI"
+        },
+        {
+            "id": 24,
+            "bank": "RAWBANK",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "RAWBCDKI"
+        },
+        {
+            "id": 25,
+            "bank": "SOFIBANQUE SA",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "SFBXCDKI"
+        },
+        {
+            "id": 26,
+            "bank": "STANDARD BANK RDC SARL",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "SBICCDKX"
+        },
+        {
+            "id": 27,
+            "bank": "SWITAP",
+            "city": "LUBUMBASHI",
+            "branch": null,
+            "swift_code": "SWTTCD31"
+        },
+        {
+            "id": 28,
+            "bank": "TRUST MERCHANT BANK SA",
+            "city": "LUBUMBASHI",
+            "branch": null,
+            "swift_code": "TRMSCD3L"
+        },
+        {
+            "id": 29,
+            "bank": "TRUST MERCHANT BANK SARL",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "TRMSCD3K"
+        },
+        {
+            "id": 30,
+            "bank": "UNION ZAIROISE DE BANQUES",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "UZBACDK1"
+        },
+        {
+            "id": 31,
+            "bank": "UNITED BANK FOR AFRICA RDC SARL",
+            "city": "KINSHASA",
+            "branch": null,
+            "swift_code": "UNAFCDKS"
+        }
+    ]
+}

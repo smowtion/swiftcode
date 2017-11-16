@@ -1,0 +1,139 @@
+{
+    "country": "Belize",
+    "country_code": "BZ",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ATLANTIC BANK LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "LIBABZBZ"
+        },
+        {
+            "id": 2,
+            "bank": "ATLANTIC BANK LIMITED",
+            "city": "SAN PEDRO",
+            "branch": null,
+            "swift_code": "LIBABZBZ0BS"
+        },
+        {
+            "id": 3,
+            "bank": "ATLANTIC INTERNATIONAL BANK LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "AIBLBZBZ"
+        },
+        {
+            "id": 4,
+            "bank": "BELIZE BANK INTERNATIONAL LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "BCBTBZBZ"
+        },
+        {
+            "id": 5,
+            "bank": "BELIZE BANK LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "BBLZBZBZ"
+        },
+        {
+            "id": 6,
+            "bank": "CAYE INTERNATIONAL BANK LTD.",
+            "city": "SAN PEDRO",
+            "branch": null,
+            "swift_code": "CAYEBZBZ"
+        },
+        {
+            "id": 7,
+            "bank": "CENTRAL BANK OF BELIZE",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "CEBBBZBZ"
+        },
+        {
+            "id": 8,
+            "bank": "CHOICE BANK LTD",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "CHOIBZBZ"
+        },
+        {
+            "id": 9,
+            "bank": "COMPANIA FINANCIERA DE APOYO AL DESARROLLO DEL COMERCIO Y LA INDUSTRIA, S.A.",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "CFADBZB1"
+        },
+        {
+            "id": 10,
+            "bank": "EU TRADING GROUP INC",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "TRRRBZB1"
+        },
+        {
+            "id": 11,
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "FCIBBZBZ"
+        },
+        {
+            "id": 12,
+            "bank": "HANDELS BANK AND TRUST CO. LTD.",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "HATTBZB1"
+        },
+        {
+            "id": 13,
+            "bank": "HERITAGE BANK LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "PRVTBZBD"
+        },
+        {
+            "id": 14,
+            "bank": "HERITAGE INTERNATIONAL BANK AND TRUST LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "PRVTBZBS"
+        },
+        {
+            "id": 15,
+            "bank": "ITREND LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "ITREBZB1"
+        },
+        {
+            "id": 16,
+            "bank": "NEW HORIZON FINANCIAL SERVICES LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "NHFSBZB1"
+        },
+        {
+            "id": 17,
+            "bank": "SCOTIABANK (BELIZE) LTD.",
+            "city": "BELIZE CITY",
+            "branch": "(INTERNATIONAL)",
+            "swift_code": "NOSCBZBSINT"
+        },
+        {
+            "id": 18,
+            "bank": "SCOTIABANK (BELIZE) LTD.",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "NOSCBZBS"
+        },
+        {
+            "id": 19,
+            "bank": "XFERION LATIN AMERICA S.A.",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "FELABZB1"
+        }
+    ]
+}

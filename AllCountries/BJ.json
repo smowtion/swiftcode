@@ -1,0 +1,125 @@
+{
+    "country": "Benin",
+    "country_code": "BJ",
+    "list": [
+        {
+            "id": 1,
+            "bank": "BANK OF AFRICA - BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "AFRIBJBJ"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF AFRICA - BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "AFRIBJB1BWB"
+        },
+        {
+            "id": 3,
+            "bank": "BANQUE AFRICAINE POUR L'INDUSTRIE ET LE COMMERCE BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "AFICBJBJ"
+        },
+        {
+            "id": 4,
+            "bank": "BANQUE ATLANTIQUE DU BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "ATBJBJBJ"
+        },
+        {
+            "id": 5,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "BCAOBJBJ"
+        },
+        {
+            "id": 6,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "PARAKOU",
+            "branch": "(PARAKOU BRANCH)",
+            "swift_code": "BCAOBJBJPAR"
+        },
+        {
+            "id": 7,
+            "bank": "BANQUE INTERNATIONALE DU BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "BIBEBJBJ"
+        },
+        {
+            "id": 8,
+            "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (BENIN) S.A.",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "BSAHBJBJ"
+        },
+        {
+            "id": 9,
+            "bank": "BGFIBANK BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "BGFIBJBJ"
+        },
+        {
+            "id": 10,
+            "bank": "CBAO GROUP ATTIJARIWAFABANK",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "CBAOBJBJ"
+        },
+        {
+            "id": 11,
+            "bank": "CCEI BANK BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "CCEIBJBJ"
+        },
+        {
+            "id": 12,
+            "bank": "DEPOSITAIRE CENTRAL-BANQUE DE REGLEMENT (DCBR BENIN)",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "DCRDBJB1"
+        },
+        {
+            "id": 13,
+            "bank": "DIAMOND BANK BENIN SA",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "DBLNBJBJ"
+        },
+        {
+            "id": 14,
+            "bank": "ECOBANK BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "ECOCBJBJ"
+        },
+        {
+            "id": 15,
+            "bank": "ORABANK BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "ORBKBJBJ"
+        },
+        {
+            "id": 16,
+            "bank": "SOCIETE GENERALE BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "SOGEBJBJ"
+        },
+        {
+            "id": 17,
+            "bank": "UNITED BANK FOR AFRICA BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "COBBBJBJ"
+        }
+    ]
+}
